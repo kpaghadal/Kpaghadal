@@ -1,44 +1,61 @@
 <h1 align="center">Hi 👋, I'm Kris</h1>
-<h3 align="center">A passionate Web Developer from Gujarat ✨</h3>
+<h3 align="center">Web Developer | React | Frontend Enthusiast</h3>
 
-<img align="right" alt="coding" width="400"
-src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Web+Developer+from+India;React+%7C+JavaScript+%7C+PHP;Learning+and+Building+Every+Day" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kpaghadal&label=Profile%20Views&color=0ea5e9&style=flat" />
+</p>
+
+<img align="right" alt="coding" width="380"
+src="https://user-images.githubusercontent.com/74038190/212897748-16b4e03e-8e8a-4e2c-bb9b-3b69c3b5e2d3.gif" />
 
 ---
 
-- 🔭 I’m currently pursuing **B.Tech**
-- 🌱 I’m currently learning **Flutter, PHP, Data Science**
-- 📫 How to reach me: **kpaghadal45@gmail.com**
+## 👨‍💻 About Me
+
+- 🎓 B.Tech student passionate about **Web Development**
+- 💻 Focused on **React & Frontend Development**
+- 🌱 Currently learning **Flutter, PHP & Data Science**
+- 🚀 Interested in building **real-world projects**
+- 📫 Email: **kpaghadal45@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect With Me
+
 <p align="left">
   <a href="https://linkedin.com/in/kris-paghadal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kris%20Paghadal-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://instagram.com/kris_paghadal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-kris__paghadal-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Tech Stack
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,flutter,git,github,mysql,linux" />
 </p>
 
 ---
 
-<h3 align="left">Support:</h3>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kpaghadal&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kpaghadal&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## ☕ Support Me
+
 <p>
   <a href="https://www.buymeacoffee.com/kris">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
@@ -47,6 +64,6 @@ src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" />
 
 ---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kpaghadal&show_icons=true&layout=compact" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=120&section=footer"/>
 </p>
